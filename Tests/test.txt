@@ -1,1 +1,4 @@
 Caso de prueba nro 1
+Caso de prueba nro 2 
+Caso de prueba nro 3
+resultado obtenido: ok
